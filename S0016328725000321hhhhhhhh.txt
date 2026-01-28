@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arifur Rahaman | University of Alabama</title>
+    <style>
+        body { font-family: 'Times New Roman', Times, serif; line-height: 1.6; color: #1a1a1a; max-width: 850px; margin: 0 auto; padding: 40px; background-color: #fff; }
+        header { border-bottom: 2px solid #800000; padding-bottom: 20px; margin-bottom: 30px; }
+        h1 { margin: 0; color: #800000; font-size: 2.2em; text-transform: uppercase; letter-spacing: 1px; }
+        h2 { color: #800000; font-size: 1.4em; border-bottom: 1px solid #eee; padding-bottom: 5px; margin-top: 40px; }
+        .contact { font-size: 1em; color: #333; margin-top: 10px; }
+        .bio { font-size: 1.1em; margin-bottom: 30px; }
+        .item { margin-bottom: 15px; }
+        .year { font-weight: bold; color: #666; width: 80px; display: inline-block; }
+        footer { margin-top: 60px; font-size: 0.85em; color: #777; border-top: 1px solid #eee; padding-top: 20px; text-align: center; }
+        a { color: #800000; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Arifur Rahaman</h1>
+    <div class="contact">
+        PhD Student & Graduate Teaching Assistant [cite: 5, 7]<br>
+        Department of Political Science, University of Alabama [cite: 5, 7]<br>
+        Email: <a href="mailto:arahaman@crimson.ua.edu">arahaman@crimson.ua.edu</a> [cite: 3]
+    </div>
+</header>
+
+<section id="about">
+    <h2>About</h2>
+    <p class="bio">
+        I am a PhD student in Political Science at the University of Alabama[cite: 5]. My research focuses on Comparative Politics, specifically exploring political authority, state-society relations, and democratic transitions in South Asia and Bangladesh[cite: 17, 19, 48].
+    </p>
+</section>
+
+<section id="research">
+    <h2>Research Interests</h2>
+    <ul>
+        <li><strong>Comparative Politics:</strong> Political ordering and informal power[cite: 5, 41].</li>
+        <li><strong>Contentious Politics:</strong> Student mobilization and campus party capture[cite: 21].</li>
+        <li><strong>Citizenship & Identity:</strong> Exclusion and moral statecraft in postcolonial contexts[cite: 19].</li>
+        <li><strong>Climate & Society:</strong> Urban resilience and climate-induced displacement[cite: 29, 36].</li>
+    </ul>
+</section>
+
+<section id="publications">
+    <h2>Selected Publications</h2>
+    <div class="item">
+        <strong>Unsettling Political Science: Decolonial Approaches to Curriculum, Theory, and Practice in Bangladesh.</strong><br>
+        <em>Journal of Asian and African Studies</em> (Accepted)[cite: 17, 18].
+    </div>
+    <div class="item">
+        <strong>Origin and Socio-Cultural Formation of Bihari Identity.</strong><br>
+        <em>International Journal of Social, Political and Economic Research</em> (2021)[cite: 23, 24].
+    </div>
+    <div class="item">
+        <strong>What Bangladesh’s Fake News Boom Says about Our Information Crisis.</strong><br>
+        <em>The Daily Star</em> (2025)[cite: 82].
+    </div>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <div class="item"><span class="year">Current</span> <strong>PhD in Political Science</strong>, University of Alabama [cite: 5]</div>
+    <div class="item"><span class="year">2022</span> <strong>MSS in Sociology</strong>, University of Dhaka [cite: 5]</div>
+    <div class="item"><span class="year">2019</span> <strong>BSS in Sociology</strong>, University of Dhaka [cite: 5]</div>
+</section>
+
+<section id="cv">
+    <h2>Curriculum Vitae</h2>
+    <p>For more details on my academic history, publications, and grants, you can download my full CV here:</p>
+    <a href="Arifur_Rahaman_CV_Revised.pdf" target="_blank">Download CV (PDF)</a>
+</section>
+
+<footer>
+    &copy; 2026 Arifur Rahaman | University of Alabama
+</footer>
+
+</body>
+</html>
